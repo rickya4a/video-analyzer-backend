@@ -1,4 +1,4 @@
-# Video Processing API
+# Video Analyzer API
 
 A Node.js API service for extracting video metadata and generating thumbnails from video URLs.
 
